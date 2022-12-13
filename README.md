@@ -16,4 +16,4 @@ Node.js
 
 Jest 
 
-My favourite aspect of coding are the constantly new emerging technologies and with that a steady stream of opportunities to broaden my tech-horizon and learn new things. Programming to me is an enduring puzzle that wants to be solved and I love coming up with new & inventive ways of solving different problems.
+My favourite aspect of coding are the constantly new emerging technologies and with that a steady stream of opportunities to broaden my tech-horizon and learn new things. Programming to me is an enduring puzzle that wants to be deciphered and I love coming up with new & inventive ways of solving different problems.
