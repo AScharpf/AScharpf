@@ -1,17 +1,20 @@
-Welcome to my Github Page!
+### Hi 👋 My name is Alex Scharpf
+---
 
-This github profile is a collection of my most recent projects and collaborations.
+## Software Engineer
 
-My preferred tech-stack is:
+---
 
-React.js
+I like to work with modern frameworks such as React & Angular and like to build apps in my free time. In a previous life I was a bartender but since 2022 I have graduated from the Codeworks Immersive Software Engineering Course and am now working in the tech-sector.
 
-Express
+* 📍 Based in Berlin, Germany
+* 🦾 Currently working at [ScriptIDE](https://github.com/AScharpf/Scriptide)
+* 📚 Practicing Angular
+* 🍸 Worked as a Cocktail Bartender for 10+ years
 
-Mongo DB & Mongoose
+# Skills
 
-Node.js
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react)](https://skillicons.dev)
 
-Jest 
+# Contact
 
-My favourite aspect of coding are the constantly new emerging technologies and with that a steady stream of opportunities to broaden my tech-horizon and learn new things. Programming to me is an enduring puzzle that wants to be deciphered and I love coming up with new & inventive ways of solving different problems.
