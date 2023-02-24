@@ -1,7 +1,7 @@
-#### 👋 Hi there! 
+# 👋 Hi there! 
 ---
 
-##  Alex Scharpf | Software Engineer
+###  Alex Scharpf | Software Engineer
 
 ---
 
@@ -12,9 +12,9 @@ Most proficient with modern frameworks such as React & Angular and like to build
 * 📚 Practicing Angular
 * 🍸 Worked as a Cocktail Bartender for 10+ years
 
-# Skills
+### Skills
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react)](https://skillicons.dev)
 
-# Contact
+### Contact
 
