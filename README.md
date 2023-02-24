@@ -1,7 +1,7 @@
-### Hi 👋 My name is Alex Scharpf
+#### 👋 Hi there! 
 ---
 
-## Software Engineer
+##  Alex Scharpf | Software Engineer
 
 ---
 
