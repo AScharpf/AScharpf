@@ -1,4 +1,4 @@
-#  Hi there, my name is [Alex!](https://https://www.linkedin.com/in/alexander-scharpf-609136241) 👋
+#  Hi there, my name is [Alex!](https://www.linkedin.com/in/alexander-scharpf-609136241) 👋
 
 ---
 
