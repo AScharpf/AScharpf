@@ -11,7 +11,7 @@ I am most proficient with modern frameworks such as React & Angular and I like t
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,angular,mongoose,express,jest,cypress,react-native)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,angular,mongoDB,express,jest)](https://skillicons.dev)
 
 ### Contact
 
