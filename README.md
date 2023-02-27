@@ -13,3 +13,6 @@ I am most proficient with modern frameworks such as React & Angular and I like t
 
 ### Contact
 
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/alexander-scharpf-609136241)
+
+
