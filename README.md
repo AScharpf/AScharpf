@@ -9,7 +9,7 @@ I am most proficient with modern frameworks such as React & Angular and I like t
 
 ### Skills
 
-[![My Skills]](https://skillicons.dev/icons?i=js,ts,nodejs,html,css,react,angular,git,github,express,mongodb,postgres,sequelize,jest,aws,bash,docker,figma,heroku,jquery,kubernetes,visualstudio)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,html,css,react,angular,git,github,express,mongodb,postgres,sequelize,jest,aws,bash,docker,figma,heroku,jquery,kubernetes,visualstudio)]
 
 ### Contact
 
