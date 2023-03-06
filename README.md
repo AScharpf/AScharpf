@@ -4,7 +4,7 @@ I am most proficient with modern frameworks such as React & Angular and I like t
 
 * 📍 Based in Berlin, Germany
 * 🦾 Currently working at [ScriptIDE](https://github.com/AScharpf/Scriptide)
-* 📚 Practicing Angular
+* 📚 Practicing Angular with my StockTake App
 * 🍸 Worked as a Cocktail Bartender for 10+ years
 
 ### Skills
