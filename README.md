@@ -9,7 +9,7 @@ I am most proficient with modern frameworks such as Vue & React and I like to  d
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,html,css,react,angular,git,github,express,mongodb,postgres,sequelize,jest,aws,bash,docker,figma,heroku,jquery,kubernetes,visualstudio)](https://www.linkedin.com/in/alexander-scharpf-609136241)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,html,css,vue,react,angular,git,github,express,mongodb,postgres,sequelize,jest,aws,bash,docker,figma,heroku,jquery,kubernetes,visualstudio)](https://www.linkedin.com/in/alexander-scharpf-609136241)
 
 ### Contact
 
